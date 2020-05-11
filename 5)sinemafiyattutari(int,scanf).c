@@ -17,6 +17,7 @@ int main() {
 	printf("Bilet adetini giriniz: ");
 	scanf("%d", &bilet);
 
+//misir 2TL, kola 2TL, su 1TL, bilet 8TL
 	top = misir * 2 + kola * 2 + su + bilet * 8;
 	printf("Toplam tutar: %d", top);
 
