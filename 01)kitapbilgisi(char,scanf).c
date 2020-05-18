@@ -22,13 +22,11 @@ int main() {
 	printf("Kitabin turunu giriniz: ");
 	scanf("%s", tur);
 
-
 	printf("Kitap Adi: %s\n", kitapadi);
 	printf("Kitabin Yazari: %s\n", yazar);
 	printf("Kitabin Sayfa Sayisi: %s\n", sayfasayisi);
 	printf("Basim Tarihi: %s\n", btarihi);
 	printf("Basim Evi: %s\n", bevi);
 	printf("Kitabin Turu: %s", tur);
-
 
 	return 0;
