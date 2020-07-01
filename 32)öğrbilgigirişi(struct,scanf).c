@@ -13,7 +13,7 @@ int main() {
 	struct ogrencibilgi ob;
 
 	printf("Ad Soyad: ");
-	scanf("%s", ob.ad);
+	gets(ob.ad);
 	printf("Numara: ");
 	scanf("%d", &ob.no);
 	printf("Ortalama: ");
