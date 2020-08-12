@@ -1,2 +1,2 @@
 # learning.c
-everything while i was learning programming c
+everything while i was learning about programming c
