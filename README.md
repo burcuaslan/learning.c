@@ -1,2 +1,2 @@
 # learning.c
-Since first code..
+everything while i was learning programming c
